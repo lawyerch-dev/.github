@@ -18,3 +18,7 @@ AI 工具与工程模板。做能跑、能交付的东西，而不是 demo。
 - Agent 工具链：MCP、Skills、浏览器扩展
 
 > 进行中的项目与商业项目为私有；成熟一个公开一个。
+
+---
+
+头像源文件：[assets/avatar.png](assets/avatar.png) · [assets/avatar.svg](assets/avatar.svg)
