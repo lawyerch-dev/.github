@@ -44,7 +44,3 @@
 - **依赖克制**：能用标准库就不引框架
 - **只开源成熟的**：进行中与商业项目保持私有
 - **许可证清晰**：公开项目必须标明许可证
-
----
-
-<sub>维护者 <a href="https://github.com/LawyerCH">陈恒律师</a> · 头像源文件 <a href="../assets/avatar.png">assets/avatar.png</a></sub>
